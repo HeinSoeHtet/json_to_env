@@ -1,0 +1,5 @@
+/dist
+/deb_dist
+/json_to_env.egg-info
+json_to_env-1.0.0.tar.gz
+**/__pycache__
